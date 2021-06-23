@@ -1,4 +1,4 @@
-# Movie_Recommendations
+# Movies_Recommendations
 
 ## Perform analysis and Basic Recommendations based on Similar Genres and Movies which Users prefer. 
 ### Some key points to focus are:      
